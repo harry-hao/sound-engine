@@ -1,0 +1,16 @@
+# Project C style: LLVM Coding Standards as the machine-readable baseline,
+# adapted for this ALSA demo (4-space indent, 100 columns, no include sorting).
+---
+Language: Cpp
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100
+UseTab: Never
+BreakBeforeBraces: Linux
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Never
+PointerAlignment: Right
+SortIncludes: false
+InsertBraces: true

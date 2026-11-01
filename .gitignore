@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Build outputs
+*.o
+*.d
+*.a
+*.so
+alsa-engine
+demo
+
+# Editors
+.idea/
+.vscode/
+*.swp
